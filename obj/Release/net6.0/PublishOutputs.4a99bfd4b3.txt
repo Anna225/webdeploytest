@@ -1,0 +1,7 @@
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.exe
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\appsettings.Development.json
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\appsettings.json
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.dll
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.deps.json
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\mohit\Documents\MyFirstAzureWebApp\bin\Publish\MyFirstAzureWebApp.pdb
